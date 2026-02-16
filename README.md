@@ -31,22 +31,22 @@ Features:
 
 🚀 Quick Install
 One-Line Install (Recommended)
-bashcurl -fsSL https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh| bash
+bash curl -fsSL https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh| bash
 Or with wget:
-bashwget -qO- https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh | bash
+bash wget -qO- https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh | bash
 Manual Install
 
 Download the installer:
 
-bashwget https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh
+bash wget https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh
 
 Make it executable:
 
-bashchmod +x brightness-fix-installer.sh
+bash chmod +x brightness-fix-installer.sh
 
 Run it:
 
-bash./brightness-fix-installer.sh
+bash ./brightness-fix-installer.sh
 
 Follow the on-screen instructions!
 
