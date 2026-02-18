@@ -6,7 +6,9 @@
 "monitor-mode-cheatsheet.html" is a small cheat sheet for use after "kali-setup.sh" if I ever hit my head too hard.
 
 
-🌞 Brightness Control Fix for Lenovo Laptops with NVIDIA + Nouveau
+
+
+# 🌞 Brightness Control Fix for Lenovo Laptops with NVIDIA + Nouveau
 
 
 curl -fsSL https://raw.githubusercontent.com/RockstarReality/lenovo/refs/heads/main/brightness-fix-installer.sh | bash
