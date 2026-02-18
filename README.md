@@ -1,9 +1,15 @@
 # THIS README IS MAINLY FOR THE LENOVO BRIGHTNESS FIX FOR LENOVO LAPTOPS:
 
+
+
 # Other files included in this repository:
 "kali_personalized.sh" is an installer script that installs some wallpapers and apps for my personal preference.
+
 "kali-setup.sh" helps out to install drivers for some adapters that I like to be able to access from my github if needed.
+
 "monitor-mode-cheatsheet.html" is a small cheat sheet for use after "kali-setup.sh" if I ever hit my head too hard.
+
+
 
 
 
